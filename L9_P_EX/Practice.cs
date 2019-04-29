@@ -51,7 +51,6 @@ namespace L9_P_EX
             minute = DateTime.Now.Minute;
             second = DateTime.Now.Second;
         }
-        ////DateTime date1 = new DateTime(2015, 7, 20, 18, 30, 25)
 
 
 
